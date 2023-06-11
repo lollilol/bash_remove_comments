@@ -10,7 +10,7 @@ sudo curl -L https://github.com/lollilol/shell_remove_comments/blob/master/remov
 
 # Manual Install
 - place [remove_comments](remove_comments?raw=1) in /usr/local/bin/
-- make it executable: chmod u+x /usr/local/bin/remove_comments
+- make it executable: chmod +x /usr/local/bin/remove_comments
 
 # Usage:
 ```bash
