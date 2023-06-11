@@ -1,0 +1,4 @@
+#!/bin/bash
+# Usage: $ cat /etc/locale.gen | remove_comments
+
+grep -v '^#'
