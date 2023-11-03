@@ -1,4 +1,4 @@
-# shell_remove_comments
+# shell_cat_remove_comments
 
 ### this is a very simple script that lives in your path, which you can pipe to to remove comments.
 
